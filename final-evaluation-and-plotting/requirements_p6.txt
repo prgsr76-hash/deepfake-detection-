@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+pandas
+Pillow
+scikit-learn
+matplotlib
+fvcore
